@@ -22,43 +22,43 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.0
                     ),
                     Subject(
                         name = "TECHNO",
-                        grade = 1.4
+                        grade = 1.0
                     ),
                     Subject(
                         name = "IMDBSYS32",
-                        grade = 2.9
+                        grade = 1.0
                     ),
                     Subject(
                         name = "PE103",
-                        grade = 1.5
+                        grade = 1.0
                     ),
                     Subject(
                         name = "FREDTHINK",
-                        grade = 3.5
+                        grade = 1.0
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 1.0
                     ),
                     Subject(
                         name = "SYSARCH32",
-                        grade = 2.5
+                        grade = 1.0
                     ),
                     Subject(
                         name = "ELBIZAN",
-                        grade = 3.3
+                        grade = 1.0
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 1.0
                     ),
                     Subject(
                         name = "WEBDEV31",
-                        grade = 2.9
+                        grade = 1.0
                     )
                 )
             ),
@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 3.0
                     ),
                     Subject(
                         name = "TECHNO",
@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "PE103",
-                        grade = 1.5
+                        grade = 1.9
                     ),
                     Subject(
                         name = "FREDTHINK",
@@ -106,7 +106,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "WEBDEV31",
-                        grade = 2.9
+                        grade = 3.9
                     )
                 )
             ),
@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 2.0
                     ),
                     Subject(
                         name = "TECHNO",
@@ -126,7 +126,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "IMDBSYS32",
-                        grade = 2.9
+                        grade = 3.3
                     ),
                     Subject(
                         name = "PE103",
@@ -150,7 +150,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 1.0
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -167,7 +167,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.2
                     ),
                     Subject(
                         name = "TECHNO",
@@ -175,7 +175,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "IMDBSYS32",
-                        grade = 2.9
+                        grade = 2.0
                     ),
                     Subject(
                         name = "PE103",
@@ -187,7 +187,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 3.3
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -215,7 +215,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 3.0
                     ),
                     Subject(
                         name = "TECHNO",
@@ -235,7 +235,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 3.1
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -247,7 +247,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.9
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -263,7 +263,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.0
                     ),
                     Subject(
                         name = "TECHNO",
@@ -275,7 +275,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "PE103",
-                        grade = 1.5
+                        grade = 1.9
                     ),
                     Subject(
                         name = "FREDTHINK",
@@ -295,7 +295,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.9
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -331,7 +331,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 2.8
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -347,7 +347,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "WEBDEV31",
-                        grade = 2.9
+                        grade = 2.0
                     )
                 )
             ),
@@ -359,19 +359,19 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.7
                     ),
                     Subject(
                         name = "TECHNO",
-                        grade = 1.4
+                        grade = 1.9
                     ),
                     Subject(
                         name = "IMDBSYS32",
-                        grade = 2.9
+                        grade = 2.0
                     ),
                     Subject(
                         name = "PE103",
-                        grade = 1.5
+                        grade = 3.4
                     ),
                     Subject(
                         name = "FREDTHINK",
@@ -383,7 +383,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "SYSARCH32",
-                        grade = 2.5
+                        grade = 2.4
                     ),
                     Subject(
                         name = "ELBIZAN",
@@ -407,7 +407,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.7
                     ),
                     Subject(
                         name = "TECHNO",
@@ -419,7 +419,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "PE103",
-                        grade = 1.5
+                        grade = 1.0
                     ),
                     Subject(
                         name = "FREDTHINK",
@@ -439,7 +439,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.9
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -455,7 +455,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.1
                     ),
                     Subject(
                         name = "TECHNO",
@@ -475,7 +475,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 1.6
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -487,7 +487,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.1
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -503,7 +503,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.3
                     ),
                     Subject(
                         name = "TECHNO",
@@ -511,7 +511,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "IMDBSYS32",
-                        grade = 2.9
+                        grade = 2.0
                     ),
                     Subject(
                         name = "PE103",
@@ -523,7 +523,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 1.8
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -535,7 +535,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.7
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -551,7 +551,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.6
                     ),
                     Subject(
                         name = "TECHNO",
@@ -575,7 +575,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "SYSARCH32",
-                        grade = 2.5
+                        grade = 3.2
                     ),
                     Subject(
                         name = "ELBIZAN",
@@ -623,7 +623,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "SYSARCH32",
-                        grade = 2.5
+                        grade = 2.8
                     ),
                     Subject(
                         name = "ELBIZAN",
@@ -631,7 +631,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.9
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -671,7 +671,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "SYSARCH32",
-                        grade = 2.5
+                        grade = 2.9
                     ),
                     Subject(
                         name = "ELBIZAN",
@@ -683,7 +683,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "WEBDEV31",
-                        grade = 2.9
+                        grade = 3.0
                     )
                 )
             ),
@@ -699,7 +699,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "TECHNO",
-                        grade = 1.4
+                        grade = 1.9
                     ),
                     Subject(
                         name = "IMDBSYS32",
@@ -715,7 +715,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 1.7
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -727,7 +727,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 3.0
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -751,7 +751,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "IMDBSYS32",
-                        grade = 2.9
+                        grade = 2.7
                     ),
                     Subject(
                         name = "PE103",
@@ -767,7 +767,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "SYSARCH32",
-                        grade = 2.5
+                        grade = 2.0
                     ),
                     Subject(
                         name = "ELBIZAN",
@@ -791,7 +791,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.1
                     ),
                     Subject(
                         name = "TECHNO",
@@ -811,7 +811,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 1.4
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -823,7 +823,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.9
                     ),
                     Subject(
                         name = "WEBDEV31",
@@ -843,7 +843,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "TECHNO",
-                        grade = 1.4
+                        grade = 1.7
                     ),
                     Subject(
                         name = "IMDBSYS32",
@@ -875,7 +875,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "WEBDEV31",
-                        grade = 2.9
+                        grade = 2.6
                     )
                 )
             ),
@@ -887,7 +887,7 @@ class MainActivity : AppCompatActivity() {
                 subjects = listOf(
                     Subject(
                         name = "SYSAD",
-                        grade = 1.8
+                        grade = 1.9
                     ),
                     Subject(
                         name = "TECHNO",
@@ -907,7 +907,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INTPROG32",
-                        grade = 1.9
+                        grade = 1.7
                     ),
                     Subject(
                         name = "SYSARCH32",
@@ -923,7 +923,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "WEBDEV31",
-                        grade = 2.9
+                        grade = 2.0
                     )
                 )
             ),
@@ -939,7 +939,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "TECHNO",
-                        grade = 1.4
+                        grade = 1.9
                     ),
                     Subject(
                         name = "IMDBSYS32",
@@ -951,7 +951,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "FREDTHINK",
-                        grade = 3.5
+                        grade = 3.2
                     ),
                     Subject(
                         name = "INTPROG32",
@@ -967,7 +967,7 @@ class MainActivity : AppCompatActivity() {
                     ),
                     Subject(
                         name = "INFOSEC",
-                        grade = 2.0
+                        grade = 2.4
                     ),
                     Subject(
                         name = "WEBDEV31",

@@ -1,6 +1,7 @@
 package com.example.studentlistview
 
 import android.content.Context
+import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -38,6 +39,13 @@ class SubjectAdapter(private val context: Context, private val subjects: List<Su
         textViewSubjectName.text = subject.name
         textViewGrade.text = subject.grade.toString()
         textViewStatus.text = subject.getStatus()
+        if (subject.getStatus() == "Pass") {
+            // Set text color to blue
+            textViewStatus.setTextColor(Color.BLUE)
+        } else {
+            // Set text color to red
+            textViewStatus.setTextColor(Color.RED)
+        }
 
         return view
     }
